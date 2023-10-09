@@ -29,4 +29,5 @@ We combined this parcel information and matched it to the fire risk data by cens
 
 ### Data in this repo:
 - WUI data by state and county. More info/data dictionary is [here](https://silvis.forest.wisc.edu/data/wui-change/). Source: Silvis Lab, University of Wisconsin-Madison
-- Aggregated parcel data for one county in each of our markets. Data from county governments.
+- Aggregated parcel data for one county in each of our markets. Shows the number of homes built by decade in census tracts where more/less than 50% of properties are at major risk for wildfire. Data from county governments/First Street Foundation.
+- Aggregated data for the entire U.S. showing the number of homes built by decade in counties where more/less than 50% of properties are at major risk. Data from the U.S. Census/First Street Foundation. There is also data aggreggated by homes built by decade in counties where more/less than 50% of properties are at moderate risk.
